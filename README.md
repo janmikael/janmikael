@@ -1,5 +1,5 @@
 # Hi, I`m Michael!
-A Software Engineer from Philippines
+A Web Developer from Philippines
 
 
 ## 🌐 Socials:
